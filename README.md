@@ -21,13 +21,13 @@ The script in this repository automates the process of editing the hosts file to
 
 1. Clone or download this repository to your local machine.
 2. Navigate to the appropriate directory for your platform:
-   - For Mac, Windows, and Linux: `scripts`
-   - For Android: `android-scripts`
+   - For Mac, Windows, and Linux: `scripts` [WIP]
+   - For Android: `android-scripts`[WIP]
 3. Run the corresponding script:
-   - For Mac: `sudo ./block_ads_mac.sh`
-   - For Windows: Run `block_ads_windows.bat` as Administrator
-   - For Linux: `sudo ./block_ads_linux.sh`
-   - For Android: Follow instructions in `android-scripts/README.md`
+   - For Mac: `sudo ./block_ads_mac.sh` [WIP] 
+   - For Windows: Run `block_ads_windows.bat` as Administrator [WIP]
+   - For Linux: `sudo ./block_ads_linux.sh` [WIP] 
+   - For Android: Follow instructions in `android-scripts/README.md` [WIP]
 4. Follow the prompts to update the hosts file.
 5. Reboot your device or restart networking services for the changes to take effect.
 
