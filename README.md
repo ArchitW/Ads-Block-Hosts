@@ -1,4 +1,4 @@
-# Ads-Block-Hosts
+💀 Ads-Block-Hosts 💀
 
 # AdBlocker using Hosts File
 
@@ -8,7 +8,7 @@ This project provides a simple way to block advertisements across various platfo
 
 ## How It Works
 
-The script in this repository automates the process of editing the hosts file to include entries that redirect known ad-serving domains to a local IP address (typically 127.0.0.1). This prevents your device from loading ads from these domains.
+The script in this repository automates the process of editing the hosts file to include entries that redirect known ad-serving domains to a local IP address (typically 127.0.0.1 || 0.0.0.0). This prevents your device from loading ads from these domains.
 
 ## Supported Platforms
 
